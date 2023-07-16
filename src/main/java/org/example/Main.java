@@ -6,7 +6,7 @@ public class Main {
         priceForEducation.high=new HighSchool();
         priceForEducation.high.schoolName="JRS";
         priceForEducation.high.pricePerYear=200.10;
-        priceForEducation.high.year=10;
+        priceForEducation.high.year=9;
 
         priceForEducation.puc=new Puc();
         priceForEducation.puc.collegeName="Mandavaya";
